@@ -8,7 +8,7 @@ Lock a content item for editing.
 
 Add this line to your application's Gemfile:
 
-    gem 'padlock'
+    gem 'padlock-rails'
 
 And then execute:
 
